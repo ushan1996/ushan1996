@@ -1,22 +1,87 @@
+<a href="https://ushan1996.github.io">
+  <img src="https://ushan1996.github.io/og-image.jpg" alt="Ushan Jayamanne – Senior Software Engineer" width="100%" />
+</a>
+
 <h1 align="center">Hi 👋, I'm Ushan Jayamanne</h1>
-<h3 align="center">Full Stack Developer | Web Developer</h3>
+<h3 align="center">Senior Software Engineer · Full Stack · Reporting &amp; Data · AI/ML</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ushan1996&label=Profile%20views&color=0e75b6&style=flat" alt="ushan1996" /> </p>
-
-- 💬 Ask me about **React JS , Node JS, MREN Stack**
-
-- 📫 How to reach me **ushandineesha@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ushan-jayamanne-05502b1b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ushan-jayamanne-05502b1b7" height="30" width="40" /></a>
-<a href="https://fb.com/ushan.jayamanne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ushan.jayamanne" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sl smart class" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sl smart class" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://ushan1996.github.io"><img src="https://img.shields.io/badge/Portfolio-ushan1996.github.io-B98B6E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/ushan-jayamanne-05502b1b7"><img src="https://img.shields.io/badge/LinkedIn-Ushan%20Jayamanne-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ushandineesha@gmail.com"><img src="https://img.shields.io/badge/Email-ushandineesha%40gmail.com-161616?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ushan1996&label=Profile%20views&color=B98B6E&style=flat" alt="Profile views" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ushan1996&show_icons=true&locale=en&layout=compact" alt="ushan1996" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ushan1996&show_icons=true&locale=en" alt="ushan1996" /></p>
+### 🧑‍💻 About me
+
+I build **reliable systems for millions of messages**. I'm a Senior Software Engineer at **Omobio (Pvt) Ltd** in Sri Lanka, where I lead the engineering team on the **Banglalink SMSC** platform. I joined as a trainee in 2023.
+
+- 📡 **Telecom platforms:** SMSC and SMPP systems handling up to **40,000 TPS** across 16 servers
+- 📊 **Reporting & data:** real-time CDR pipelines and billing engines on **ClickHouse**, Vector and Apache Superset
+- 🤖 **AI/ML:** real-time SMS spam-campaign detection with LightGBM, HDBSCAN and LLM verification
+- 🌐 **Full stack:** admin portals and dashboards with ReactJS, Next.js, SvelteKit, Python, PHP and Node.js
+- 🤝 **Delivered for:** Banglalink · Mobitel · Airtel · Ncell · Hutch · Hemas Hospital
+- 💡 *"In data-heavy systems, a good design beats clever code."*
+
+---
+
+### 🚀 Featured work
+
+| Project | What it does | Stack |
+|---|---|---|
+| **SMS Messaging Hub – Reporting & Billing Engine** | Cascading minute → year materialized views and a reusable Python report engine serving 70 reports through one JSON contract | ClickHouse · Python · PHP · Docker |
+| **Real-time AI/ML Campaign Detection** | Clusters look-alike SMS, scores campaigns in under 1 ms and verifies flagged ones with an LLM | Python · LightGBM · HDBSCAN · Jenkins |
+| **Banglalink SMSC – Dynamic Reporting** | Real-time CDR analytics with KPI dashboards for success rate, errors, TPS and operator traffic | Vector · ClickHouse · Superset |
+| **Banglalink SMSC** | Core SMS centre on 16 servers with automated reporting at up to 40,000 TPS | Ext JS · PHP · Python · MariaDB |
+| **Hemas Hospital Admin Portal** | Home care, virtual care, doctors and customers managed in one portal | ReactJS · Directus |
+
+👉 See all 18 projects on my **[portfolio](https://ushan1996.github.io/#projects)**.
+
+---
+
+### 🛠️ Tech stack
+
+**Languages & frameworks**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,php,js,ts,java,react,nextjs,svelte,vue,nodejs,express,fastapi,html,css" alt="Languages and frameworks" />
+</p>
+
+**Data, DevOps & tools**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,sqlite,docker,jenkins,githubactions,linux,git,github,postman,firebase" alt="Data, DevOps and tools" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black" alt="ClickHouse" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB" />
+  <img src="https://img.shields.io/badge/Apache%20Superset-20A6C9?style=flat-square&logo=apachesuperset&logoColor=white" alt="Apache Superset" />
+  <img src="https://img.shields.io/badge/Vector-161616?style=flat-square" alt="Vector" />
+  <img src="https://img.shields.io/badge/Ext%20JS-86BC40?style=flat-square&logo=sencha&logoColor=white" alt="Ext JS" />
+  <img src="https://img.shields.io/badge/LightGBM-B98B6E?style=flat-square" alt="LightGBM" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" alt="SonarQube" />
+  <img src="https://img.shields.io/badge/SMSC%20%2F%20SMPP-8A5F44?style=flat-square" alt="SMSC / SMPP" />
+</p>
+
+---
+
+### 📈 GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ushan1996&show_icons=true&hide_border=true&title_color=B98B6E&icon_color=B98B6E&text_color=68635D&bg_color=FFFDF9" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=ushan1996&layout=compact&hide_border=true&title_color=B98B6E&text_color=68635D&bg_color=FFFDF9" alt="Top languages" />
+</p>
+
+---
+
+<p align="center">
+  📫 Open to conversations about full stack, data engineering and AI/ML roles.<br />
+  <a href="https://ushan1996.github.io"><b>ushan1996.github.io</b></a> · <a href="mailto:ushandineesha@gmail.com">ushandineesha@gmail.com</a>
+</p>
